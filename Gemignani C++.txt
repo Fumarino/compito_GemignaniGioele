@@ -1,5 +1,7 @@
 //Gemignani Gioele 22/11/2017 5BIA
 
+//Versione con conflitti FIX_BUG
+
 include <iostream>
 using namespace std;
 
